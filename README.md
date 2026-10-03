@@ -1,7 +1,5 @@
-# Nightdrive 84
+# Nightdrive 84 is now Clawd Rdio
 
-An 80s synth groovebox that runs in your browser: drum machine, analog and FM synths, arranger, mixer, visualizer and 27 songs, including 12 new ones by Opus 5.5 (six originals and six synth versions of public-domain classics).
+This page now sends you to the new home: **https://z3r0-zeus.github.io/clawd-rdio/**
 
-**Play it:** https://z3r0-zeus.github.io/nightdrive-84-play/
-
-Best on a computer in Chrome or Edge, with sound on. Press the spacebar to play.
+(Repository: https://github.com/Z3R0-ZEUS/clawd-rdio)
